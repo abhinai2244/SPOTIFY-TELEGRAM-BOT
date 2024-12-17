@@ -1,0 +1,10 @@
+.env
+.cache
+*.session
+*.session-journal
+*.db
+*.db-journal
+ffmpeg.exe
+
+covers
+songs
