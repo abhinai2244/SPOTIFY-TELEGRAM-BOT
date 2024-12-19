@@ -1,10 +1,10 @@
-# spotify-downloader 🎵
+# Spotify-downloader 🎵
 
 # Telegram Music Bot
 ## NOTICE: 
 DON'T TRY TO MODIFY THE CODE. 
 IT IS AUTOMATED DESTRUCTION CODE. 
-IF YOU CHANGE THE MAIN CODE, YOU CAN CHANGE THE .ENV FILE ONLY. 
+IF YOU CHANGE THE MAIN CODE IT MAY CAUSE FULL OF CODE ERRORS , YOU CAN CHANGE THE .ENV FILE ONLY. 
 WATERMARK ADDED.
 
 This is a Telegram bot that allows users to download music from Spotify and YouTube. It supports downloading tracks,
